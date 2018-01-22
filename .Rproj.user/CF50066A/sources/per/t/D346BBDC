@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516654291609.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3661546225",
+    "id" : "D346BBDC",
+    "lastKnownWriteTime" : 1516655086,
+    "last_content_update" : -2147483648,
+    "path" : "~/GitHub/notebook/notebook.Rmd",
+    "project_path" : "notebook.Rmd",
+    "properties" : {
+        "cursorPosition" : "2019,28",
+        "scrollLine" : "1998",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
