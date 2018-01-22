@@ -221,7 +221,7 @@
 
 Solve the RNA ladder problem, the ladder also need the loading dye, same as the samples. 
                                                
-The loading dye is not just show you a marker of position, but also seperate RNA fragment   !!!!!
+The loading dye is not just show you the position, but also seperate RNA fragment   !!!!!
 
 ------
 
